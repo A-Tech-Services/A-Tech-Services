@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-tech-services&show_icons=true&locale=en" alt="a-tech-services" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-tech-services&" alt="a-tech-services" /></p>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-Tech003&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
