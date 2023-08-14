@@ -71,6 +71,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/A-Tech003/A-Tech003/output/snake.svg" alt="Snake animation" />
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-tech003&" alt="a-tech-services" /></p>
