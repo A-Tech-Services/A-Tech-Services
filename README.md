@@ -56,8 +56,8 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=a-tech003&show_icons=true&locale=en" alt="a-tech-services" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-tech003&show_icons=true&locale=en&layout=compact" alt="a-tech-services" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-tech003&show_icons=true&locale=en&layout=compact" alt="a-tech-services" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-tech003&show_icons=true&locale=en" alt="a-tech-services" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-tech003&" alt="a-tech-services" /></p>
