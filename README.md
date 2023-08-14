@@ -54,8 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div><br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-tech003&label=Profile%20views&color=0e75b6&style=flat" alt="a-tech003" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-tech003" alt="a-tech003" /></a> </p>
 
 <h3 align="left">🔥   My Stats :</h3>
