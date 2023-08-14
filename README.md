@@ -17,7 +17,7 @@
 
 <h3 align="left">👨🏽‍💻  About Me</h3>
 
-<p align="left">- 🌱 I’m currently learning React<br><br>- 👯 I’m looking to collaborate on Any React Project<br><br>- ⚡ Fun fact I think i am funny.</p>
+<p align="left">- 🌱 I’m currently learning React<br><br>- 👯 I’m looking to collaborate on Any React Project<br><br>- ⚡ Fun fact I think i am funny.</p><br><br>
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -51,13 +51,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+</div><br><br>
 
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-tech003&show_icons=true&locale=en&layout=compact" alt="a-tech-services" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-tech003&show_icons=true&locale=en" alt="a-tech-services" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-tech003&show_icons=true&locale=en&layout=compact" alt="a-tech-services" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-tech003&" alt="a-tech-services" /></p>
