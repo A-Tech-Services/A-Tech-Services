@@ -58,7 +58,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<div align="center">
+<div align="left">
   <img height="150" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
 </div><br><br>
 
@@ -70,9 +70,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/A-Tech003/A-Tech003/output/snake.svg" alt="Snake animation" />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-tech003&show_icons=true&locale=en&layout=compact" alt="a-tech-services" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-tech003&show_icons=true&locale=en" alt="a-tech-services" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-tech003&" alt="a-tech-services" /></p>
