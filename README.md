@@ -1,5 +1,3 @@
-<img src="blob:https://console.pixelbin.io/3fbb57ae-e2c4-4e67-a44f-4c2705641b82" alt="header image">
-
 <h1 align="center">Hi 👋, I'm Abiodun Oluwapelumi Amos</h1>
 <h3 align="center">A passionate react-frontend developer from Nigeria</h3>
 
