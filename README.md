@@ -54,6 +54,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div><br><br>
 
+<h3 align="left">🏆🏆  My Trophies</h3>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-tech003" alt="a-tech003" /></a> </p>
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -68,7 +70,5 @@
 </div><br><br>
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/A-Tech003/A-Tech003/output/snake.svg" alt="Snake animation" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-tech003&" alt="a-tech-services" /></p>
