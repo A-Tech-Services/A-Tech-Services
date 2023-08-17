@@ -8,7 +8,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Abiodun Oluwapelumi Amos</h1>
-<h3 align="center">A passionate react-frontend developer from Nigeria</h3>
+<h3 align="center">A Passionate React Front-End Developer</h3>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=A-Tech003.A-Tech003&"  />
